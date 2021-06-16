@@ -9,7 +9,7 @@ A simple fare wallet system model
 
 ## Run locally
 
-* Clone repo ()[]
+* Clone repo (https://github.com/femzy123/spacex-odyssey)[https://github.com/femzy123/spacex-odyssey]
 * Install dependecies - `npm install`
 * Run - `npm start`
 
